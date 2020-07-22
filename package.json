@@ -1,0 +1,30 @@
+{
+  "name": "apirestkoajs",
+  "version": "1.0.0",
+  "description": "A simple nodejs Dockerized with KoaJs",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlbdesign/DockerNodeJS.git"
+  },
+  "keywords": [
+    "Docker",
+    "KoaJS",
+    "NodeJS"
+  ],
+  "author": "Bertolini Maxime",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlbdesign/DockerNodeJS/issues"
+  },
+  "homepage": "https://github.com/mlbdesign/DockerNodeJS#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {}
+}
