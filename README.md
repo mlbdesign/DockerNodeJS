@@ -1,5 +1,5 @@
 # DockerNodeJS
-Dockerize nodeJS server
+Dockerize nodeJS server with KoaJS for creating API Rest
 
 #### To run the apiRest with Docker simply :
 
